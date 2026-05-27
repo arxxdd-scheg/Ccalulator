@@ -1,14 +1,11 @@
 # Ccalulator
-**C** + **Calculator** = Ccalulator
-
-## Возможности
-Сложение (+)
-Вычитание (-)
-Умножение (*)
-Деление (/)
-
-## Как запустить
-### Windows (MinGW)
+## возможности
+сложение (+)
+вычитание (-)
+умножение (*)
+деление (/)
+## как запустить
+### windows (minGW)
 ```bash
-gcc general.0.110.c -o yourName.exe
-yourName.exe
+gcc general.0.120.c -o calc.exe
+calc.exe
